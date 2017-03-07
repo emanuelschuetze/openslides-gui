@@ -71,10 +71,14 @@ Authors
 Changelog
 =========
 
+Version 1.1.2 (2017-03-07)
+--------------------------
+* Added option to use Geiss and Redis server.
+
 Version 1.1.1 (2017-01-26)
--------------------------
+--------------------------
 * Updated README to Python 3.5.
-* Updated Credits to 2016.
+* Updated Credits to 2017.
 
 Version 1.1 (2016-03-21)
 ------------------------
